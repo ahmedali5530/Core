@@ -1,0 +1,1 @@
+Hi <?php echo e($name); ?>, this is abc.php view

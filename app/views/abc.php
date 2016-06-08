@@ -1,0 +1,1 @@
+Hi {{$name}}, this is abc.php view
